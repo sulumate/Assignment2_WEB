@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Pixel pink lily</title>
+  <g shape-rendering="crispEdges">
+    <path d="M30 35h4v24h-4zM18 46h12v4H18zM34 51h12v4H34z" fill="#6C8D54"/>
+    <path d="M29 5h6v8h5v9h-4v9h-8v-9h-4v-9h5zM7 22h8v4h9v4h8v8H21v-5H11v-5H7zM57 22h-8v4h-9v4h-8v8h11v-5h10v-5h4zM14 39h10v-5h8v4h-4v6h-5v7h-7v-5h-2zM50 39H40v-5h-8v4h4v6h5v7h7v-5h2z" fill="#F4C9D6" stroke="#3E2723" stroke-width="1"/>
+    <path d="M29 20h6v7h5v6h-5v6h-6v-6h-5v-6h5z" fill="#BD607D"/>
+    <path d="M31 12h2v15h-2zM22 25l11 6-1 2-11-6zM42 25l-11 6 1 2 11-6z" fill="#F5F0E6"/>
+    <path d="M30 29h4v4h-4z" fill="#D7A045"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Pixel crown for leadership</title>
+  <g shape-rendering="crispEdges">
+    <path fill="#F5F0E6" d="M0 0h320v220H0z"/>
+    <path fill="#3E2723" d="M58 91h31v51h23V84h19v31h58V84h19v58h23V91h31v77H58z"/>
+    <path fill="#B36E84" d="M68 101h12v50h35V96h7v31h76V96h7v55h35v-50h12v56H68z"/>
+    <path fill="#F4C9D6" d="M74 165h172v15H74z"/>
+    <path fill="#3E2723" d="M151 120h18v18h-18z"/>
+    <path fill="#F5F0E6" d="M155 124h10v10h-10z"/>
+    <path fill="#D2A15A" d="M72 72h12v12H72zM154 55h12v12h-12zM236 72h12v12h-12z"/>
+    <path fill="#3E2723" d="M26 31h7v7h-7zM281 26h7v7h-7zM27 183h7v7h-7z"/>
+  </g>
+</svg>

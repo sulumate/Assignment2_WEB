@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Pixel camera for creative work</title>
+  <g shape-rendering="crispEdges">
+    <path fill="#F4C9D6" d="M0 0h320v220H0z"/>
+    <path fill="#3E2723" d="M54 71h211v114H54zM94 54h71v22H94zM219 55h29v24h-29z"/>
+    <path fill="#F5F0E6" d="M63 80h193v96H63z"/>
+    <path fill="#8A4A59" d="M75 92h169v72H75z"/>
+    <path fill="#3E2723" d="M122 93h76v72h-76z"/>
+    <path fill="#F5F0E6" d="M139 107h42v42h-42z"/>
+    <path fill="#B36E84" d="M149 117h22v22h-22z"/>
+    <path fill="#3E2723" d="M149 117h22v22h-22zM86 103h17v11H86z"/>
+    <path fill="#F5F0E6" d="M154 122h12v12h-12z"/>
+    <path fill="#3E2723" d="M25 25h8v8h-8zM289 27h8v8h-8zM279 179h8v8h-8z"/>
+  </g>
+</svg>

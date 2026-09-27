@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A CSS Grid profile and a gallery of nine women who shaped science and technology.">
+  <title>Grid | Sulukhan Aizharykova</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header shell">
+    <a class="logo" href="index.html" aria-label="Sulukhan, home"><span class="logo-flower" aria-hidden="true">✿</span> SULUKHAN</a>
+    <nav aria-label="Main navigation">
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="flexbox.html">Flexbox</a></li>
+        <li><a class="current" aria-current="page" href="grid.html">Grid</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main">
+    <section class="page-banner shell">
+      <div>
+        <p class="eyebrow">ASSIGNMENT 02 · PART 2</p>
+        <h1>CSS Grid</h1>
+      </div>
+      <p>Profile layout and a gallery of nine women in science and technology.</p>
+    </section>
+
+    <section class="shell profile-section" aria-labelledby="profile-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">TASK 02 · GRID AREAS</p>
+          <h2 id="profile-title">Profile</h2>
+        </div>
+      </div>
+      <div class="profile-grid">
+        <header class="profile-head">
+          <span>AIZHARYKOVA SULUKHAN</span>
+          <span>SE-2529</span>
+        </header>
+        <aside class="profile-side" aria-label="Portrait and quick facts">
+          <img src="assets/sulukhan-pixel-portrait.png" width="1086" height="1448" alt="Pixel portrait of Sulukhan with long burgundy hair, glasses and a pink lily">
+          <div class="profile-side-caption">
+            <strong>SULUKHAN</strong>
+            <span>ASTANA IT UNIVERSITY</span>
+          </div>
+        </aside>
+        <div class="profile-main">
+          <p class="card-tag">ABOUT</p>
+          <h3>Sulukhan Aizharykova</h3>
+          <p>Astana IT University student. I have worked since I was 13. My experience includes SMM, leadership, public speaking and volunteering.</p>
+          <dl class="profile-facts">
+            <div>
+              <dt>Languages</dt>
+              <dd>English · Kazakh · Russian</dd>
+            </div>
+            <div>
+              <dt>Roles</dt>
+              <dd>DSEW SMM Vice President · Hard Mentoring leadership team</dd>
+            </div>
+            <div>
+              <dt>Award</dt>
+              <dd>AITU Active Student 2025</dd>
+            </div>
+          </dl>
+        </div>
+        <footer class="profile-foot">
+          <span>ASTANA IT UNIVERSITY</span>
+          <span>HTML + CSS</span>
+        </footer>
+      </div>
+    </section>
+
+    <section id="gallery" class="shell gallery-section" aria-labelledby="gallery-title">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">TASK 03 · IMAGE GALLERY</p>
+          <h2 id="gallery-title">Women in science and technology</h2>
+        </div>
+        <p>Nine illustrated portraits. Each card links to a biographical source.</p>
+      </div>
+      <div class="pioneer-grid">
+        <a class="pioneer-card" href="https://www.computerhistory.org/babbage/adalovelace" target="_blank" rel="noopener noreferrer">
+          <img src="assets/ada-lovelace.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Ada Lovelace</strong>
+            <span>Her 1843 notes imagined computing beyond arithmetic.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://www.nobelprize.org/prizes/physics/1903/marie-curie/facts/" target="_blank" rel="noopener noreferrer">
+          <img src="assets/marie-curie.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Marie Curie</strong>
+            <span>Pioneering radioactivity researcher and two-time Nobel laureate.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://computerhistory.org/profile/grace-murray-hopper/" target="_blank" rel="noopener noreferrer">
+          <img src="assets/grace-hopper.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Grace Hopper</strong>
+            <span>Developed an early compiler and helped shape COBOL.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://www.invent.org/inductees/hedy-lamarr" target="_blank" rel="noopener noreferrer">
+          <img src="assets/hedy-lamarr.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Hedy Lamarr</strong>
+            <span>Actor and co-inventor of a frequency-hopping communication system.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://science.nasa.gov/people/katherine-johnson/" target="_blank" rel="noopener noreferrer">
+          <img src="assets/katherine-johnson.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Katherine Johnson</strong>
+            <span>Her mathematics helped guide early American spaceflight.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://www.kcl.ac.uk/the-story-behind-photograph-51" target="_blank" rel="noopener noreferrer">
+          <img src="assets/rosalind-franklin.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Rosalind Franklin</strong>
+            <span>Her X-ray research was key to understanding DNA's structure.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://www.aps.org/apsnews/2022/09/lee-yang-parity" target="_blank" rel="noopener noreferrer">
+          <img src="assets/chien-shiung-wu.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Chien-Shiung Wu</strong>
+            <span>Her experiment demonstrated parity violation in weak interactions.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://www.internethalloffame.org/inductee/radia-perlman/" target="_blank" rel="noopener noreferrer">
+          <img src="assets/radia-perlman.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Radia Perlman</strong>
+            <span>Designed the spanning-tree algorithm that helped Ethernet networks scale.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+        <a class="pioneer-card" href="https://www.mathunion.org/imu-awards/fields-medal/fields-medals-2014" target="_blank" rel="noopener noreferrer">
+          <img src="assets/maryam-mirzakhani.svg" width="64" height="64" alt="">
+          <span class="pioneer-caption">
+            <strong>Maryam Mirzakhani</strong>
+            <span>First woman awarded the Fields Medal, for work in geometry and dynamics.</span>
+            <small>Read biography ↗</small>
+          </span>
+        </a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="shell footer-inner">
+      <span>AIZHARYKOVA SULUKHAN / SE-2529</span>
+      <a href="portfolio.html">Portfolio →</a>
+    </div>
+  </footer>
+</body>
+</html>

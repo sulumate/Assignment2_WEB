@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="title">
+  <title id="title">Pixel speech bubbles for community work</title>
+  <g shape-rendering="crispEdges">
+    <path fill="#E9DAD7" d="M0 0h320v220H0z"/>
+    <path fill="#3E2723" d="M38 46h166v108h-60l-33 27v-27H38zM144 92h139v86h-31v25l-31-25h-77z"/>
+    <path fill="#F4C9D6" d="M47 55h148v90h-60l-15 14v-14H47z"/>
+    <path fill="#F5F0E6" d="M153 101h121v68h-31v15l-18-15h-72z"/>
+    <path fill="#3E2723" d="M69 80h103v8H69zM69 99h75v8H69zM174 123h77v8h-77zM174 141h53v8h-53z"/>
+    <path fill="#B36E84" d="M27 24h8v8h-8zM274 31h8v8h-8zM276 188h8v8h-8z"/>
+  </g>
+</svg>
